@@ -1,4 +1,4 @@
-## Please, add my bio to the repo
+## My Bio
 
 - *Name*: Alexander Joulego
 - *From*: Gomel, Belarus
