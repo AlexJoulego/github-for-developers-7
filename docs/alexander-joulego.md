@@ -5,4 +5,4 @@
 - *Favorite food*: Grated cheese with garlic
 - *Hobbies*: Languages, travels, Astronomy
 - *Favorite colors*: Blue, green, violet
-
+- *Languages*: Russian, Belarusian, Polish, English, Italian, French
